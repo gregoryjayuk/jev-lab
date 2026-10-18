@@ -1,0 +1,301 @@
+# topic | name | homepage | feed (blank = discover) | what it is
+# Written 11 Oct 2026; every line is checked by check_sources.py before it counts.
+
+linux-foss | LWN.net | https://lwn.net | https://lwn.net/headlines/rss | Linux kernel and FOSS news, deep and technical (some pieces subscriber-only for a week)
+linux-foss | Phoronix | https://www.phoronix.com | https://www.phoronix.com/rss.php | Linux drivers, hardware and benchmarks, daily
+linux-foss | It's FOSS | https://itsfoss.com | https://itsfoss.com/rss/ | FOSS news, app picks and guides
+linux-foss | 9to5Linux | https://9to5linux.com | https://9to5linux.com/feed | fast Linux release news
+linux-foss | OMG! Ubuntu | https://www.omgubuntu.co.uk | https://www.omgubuntu.co.uk/feed | Ubuntu and GNOME news, UK-written
+linux-foss | Linuxiac | https://linuxiac.com | https://linuxiac.com/feed/ | Linux news and releases
+linux-foss | GamingOnLinux | https://www.gamingonlinux.com | https://www.gamingonlinux.com/article_rss.php | gaming on Linux, Proton, Steam Deck
+linux-foss | Arch Linux news | https://archlinux.org | https://archlinux.org/feeds/news/ | must-read for an Arch user: manual interventions before an update
+linux-foss | DistroWatch | https://distrowatch.com | https://distrowatch.com/news/dw.xml | distribution releases and the weekly
+linux-foss | Planet KDE | https://planet.kde.org | https://planet.kde.org/global/atom.xml | KDE developers' blogs
+linux-foss | Fedora Magazine | https://fedoramagazine.org | https://fedoramagazine.org/feed/ | Fedora news and how-tos
+linux-foss | Free Software Foundation news | https://www.fsf.org/news | | FSF campaigns and licensing news
+linux-foss | Late Night Linux | https://latenightlinux.com | | UK Linux podcast, weekly
+linux-foss | Linux Unplugged | https://linuxunplugged.com | | weekly Linux podcast
+linux-foss | The Linux Experiment | https://www.youtube.com/@TheLinuxEXP | | Linux news and desktop reviews (YouTube)
+linux-foss | DistroTube | https://www.youtube.com/@DistroTube | | tiling window managers, suckless and terminal life (YouTube)
+linux-foss | Brodie Robertson | https://www.youtube.com/@BrodieRobertson | | Linux news commentary (YouTube)
+linux-foss | r/linux | https://www.reddit.com/r/linux/ | https://www.reddit.com/r/linux/.rss | Linux community
+linux-foss | r/archlinux | https://www.reddit.com/r/archlinux/ | https://www.reddit.com/r/archlinux/.rss | Arch community
+linux-foss | r/unixporn | https://www.reddit.com/r/unixporn/ | https://www.reddit.com/r/unixporn/.rss | desktop ricing, dwm and friends
+linux-foss | Drew DeVault | https://drewdevault.com | https://drewdevault.com/blog/index.xml | FOSS principles and practice, opinionated
+
+self-hosting | selfh.st | https://selfh.st | https://selfh.st/rss/ | weekly self-hosted software roundup, high signal
+self-hosting | ServeTheHome | https://www.servethehome.com | https://www.servethehome.com/feed/ | server, NAS and homelab hardware
+self-hosting | Jeff Geerling | https://www.jeffgeerling.com | https://www.jeffgeerling.com/blog.xml | Raspberry Pi, homelab, Ansible, careful testing
+self-hosting | Jeff Geerling (YouTube) | https://www.youtube.com/@JeffGeerling | | the same, on video
+self-hosting | noted.lol | https://noted.lol | https://noted.lol/rss/ | self-hosted app reviews
+self-hosting | Techno Tim | https://technotim.live | | homelab guides
+self-hosting | Wolfgang's Channel | https://www.youtube.com/@WolfgangsChannel | | quiet, efficient home servers (YouTube)
+self-hosting | Hardware Haven | https://www.youtube.com/@HardwareHaven | | budget home servers (YouTube)
+self-hosting | Lawrence Systems | https://www.youtube.com/@LAWRENCESYSTEMS | | networking and self-hosting (YouTube)
+self-hosting | Craft Computing | https://www.youtube.com/@CraftComputing | | homelab builds (YouTube)
+self-hosting | Christian Lempa | https://www.youtube.com/@christianlempa | | Docker, Proxmox, homelab (YouTube)
+self-hosting | Level1Techs | https://www.youtube.com/@Level1Techs | | servers, Linux, hardware deep dives (YouTube)
+self-hosting | r/selfhosted | https://www.reddit.com/r/selfhosted/ | https://www.reddit.com/r/selfhosted/.rss | self-hosting community
+self-hosting | r/homelab | https://www.reddit.com/r/homelab/ | https://www.reddit.com/r/homelab/.rss | homelab community
+self-hosting | r/HomeServer | https://www.reddit.com/r/HomeServer/ | https://www.reddit.com/r/HomeServer/.rss | small home servers
+self-hosting | r/DataHoarder | https://www.reddit.com/r/DataHoarder/ | https://www.reddit.com/r/DataHoarder/.rss | drives, archives, backups
+self-hosting | r/jellyfin | https://www.reddit.com/r/jellyfin/ | https://www.reddit.com/r/jellyfin/.rss | Jellyfin media server
+
+privacy-degoogle | Privacy Guides | https://www.privacyguides.org | | privacy tools and de-Googling, well-sourced
+privacy-degoogle | EFF Deeplinks | https://www.eff.org/deeplinks | https://www.eff.org/rss/updates.xml | digital rights news
+privacy-degoogle | 404 Media | https://www.404media.co | https://www.404media.co/rss/ | tech and surveillance investigations (some paywall)
+privacy-degoogle | The Markup | https://themarkup.org | https://themarkup.org/feeds/rss.xml | data-driven tech accountability
+privacy-degoogle | Open Rights Group | https://www.openrightsgroup.org | | UK digital rights (Online Safety Act, surveillance)
+privacy-degoogle | noyb | https://noyb.eu/en | | European privacy enforcement
+privacy-degoogle | LineageOS blog | https://lineageos.org | | de-Googled Android ROM news
+privacy-degoogle | Murena /e/OS blog | https://murena.com/blog/ | | de-Googled phones and /e/OS
+privacy-degoogle | F-Droid news | https://f-droid.org/en/news/ | | the FOSS Android app store
+privacy-degoogle | Techlore | https://www.youtube.com/@techlore | | privacy and de-Googling (YouTube)
+privacy-degoogle | r/degoogle | https://www.reddit.com/r/degoogle/ | https://www.reddit.com/r/degoogle/.rss | de-Google community
+privacy-degoogle | r/privacy | https://www.reddit.com/r/privacy/ | https://www.reddit.com/r/privacy/.rss | privacy community
+privacy-degoogle | r/fossdroid | https://www.reddit.com/r/fossdroid/ | https://www.reddit.com/r/fossdroid/.rss | FOSS Android apps
+
+raspberry-pi-makers | Raspberry Pi news | https://www.raspberrypi.com/news/ | https://www.raspberrypi.com/news/feed/ | official Raspberry Pi news
+raspberry-pi-makers | Hackaday | https://hackaday.com | https://hackaday.com/blog/feed/ | hardware hacks, daily
+raspberry-pi-makers | CNX Software | https://www.cnx-software.com | https://www.cnx-software.com/feed/ | new single-board computers and embedded news
+raspberry-pi-makers | Adafruit blog | https://blog.adafruit.com | https://blog.adafruit.com/feed/ | maker projects and electronics
+raspberry-pi-makers | Hackster.io | https://www.hackster.io | | maker project news
+raspberry-pi-makers | The MagPi | https://magpi.raspberrypi.com | | the Raspberry Pi magazine
+raspberry-pi-makers | JetsonHacks | https://jetsonhacks.com | https://jetsonhacks.com/feed/ | NVIDIA Jetson projects and setup
+raspberry-pi-makers | NVIDIA Technical Blog | https://developer.nvidia.com/blog | https://developer.nvidia.com/blog/feed | edge AI and Jetson among much else
+raspberry-pi-makers | ExplainingComputers | https://www.youtube.com/@ExplainingComputers | | single-board computer reviews, UK (YouTube)
+raspberry-pi-makers | Andreas Spiess | https://www.youtube.com/@AndreasSpiess | | ESP32 and IoT (YouTube)
+raspberry-pi-makers | r/raspberry_pi | https://www.reddit.com/r/raspberry_pi/ | https://www.reddit.com/r/raspberry_pi/.rss | Raspberry Pi community
+raspberry-pi-makers | r/esp32 | https://www.reddit.com/r/esp32/ | https://www.reddit.com/r/esp32/.rss | ESP32 boards and projects
+raspberry-pi-makers | r/JetsonNano | https://www.reddit.com/r/JetsonNano/ | https://www.reddit.com/r/JetsonNano/.rss | Jetson community
+
+programming | Hacker News, 200+ points | https://news.ycombinator.com | https://hnrss.org/frontpage?points=200 | the most-upvoted tech stories only
+programming | Lobsters | https://lobste.rs | https://lobste.rs/rss | programming links, higher signal than HN
+programming | Julia Evans | https://jvns.ca | https://jvns.ca/atom.xml | clear explanations of systems and tools
+programming | Real Python | https://realpython.com | https://realpython.com/atom.xml | Python tutorials and news
+programming | Python Insider | https://blog.python.org | | official Python release news
+programming | Martin Fowler | https://martinfowler.com | https://martinfowler.com/feed.atom | software design
+programming | The Pragmatic Engineer | https://newsletter.pragmaticengineer.com | https://newsletter.pragmaticengineer.com/feed | software engineering industry (part paywall)
+programming | JavaScript Weekly | https://javascriptweekly.com | https://cprss.s3.amazonaws.com/javascriptweekly.com.xml | weekly JavaScript roundup
+programming | Dan Luu | https://danluu.com | https://danluu.com/atom.xml | rare, deep essays on software
+programming | Changelog | https://changelog.com | https://changelog.com/feed | open-source and developer news
+programming | GitHub blog | https://github.blog | https://github.blog/feed/ | GitHub product and engineering
+programming | r/neovim | https://www.reddit.com/r/neovim/ | https://www.reddit.com/r/neovim/.rss | Neovim community
+programming | Neovim news | https://neovim.io/news/ | | Neovim release news
+programming | r/bash | https://www.reddit.com/r/bash/ | https://www.reddit.com/r/bash/.rss | shell scripting
+
+ai-llms | Simon Willison | https://simonwillison.net | https://simonwillison.net/atom/everything/ | the best daily read on practical LLM engineering
+ai-llms | Anthropic news | https://www.anthropic.com/news | https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml | Claude and Anthropic announcements (Anthropic has no feed; this one is community-made, Olshansk/rss-feeds on GitHub)
+ai-llms | Anthropic engineering | https://www.anthropic.com/engineering | https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml | how Anthropic builds agents and tools (community-made feed)
+ai-llms | OpenAI news | https://openai.com/news/ | https://openai.com/news/rss.xml | OpenAI announcements
+ai-llms | Google DeepMind blog | https://deepmind.google/discover/blog/ | | DeepMind research and Gemini
+ai-llms | Hugging Face blog | https://huggingface.co/blog | https://huggingface.co/blog/feed.xml | open models and tooling
+ai-llms | Latent Space | https://www.latent.space | https://www.latent.space/feed | AI engineering newsletter and podcast
+ai-llms | Import AI | https://importai.substack.com | https://importai.substack.com/feed | Jack Clark's weekly on AI research and policy
+ai-llms | Interconnects | https://www.interconnects.ai | https://www.interconnects.ai/feed | Nathan Lambert on open models and training
+ai-llms | One Useful Thing | https://www.oneusefulthing.org | https://www.oneusefulthing.org/feed | Ethan Mollick on using AI at work
+ai-llms | AI as Normal Technology | https://www.aisnakeoil.com | | Narayanan and Kapoor, the sceptical counterweight
+ai-llms | r/LocalLLaMA | https://www.reddit.com/r/LocalLLaMA/ | https://www.reddit.com/r/LocalLLaMA/.rss | running models locally
+ai-llms | Ollama blog | https://ollama.com/blog | | local model runner news
+
+work-microsoft | Power Platform blog | https://www.microsoft.com/en-us/power-platform/blog/ | https://www.microsoft.com/en-us/power-platform/blog/feed/ | official Power Platform announcements
+work-microsoft | Power Automate blog | https://www.microsoft.com/en-us/power-platform/blog/power-automate/ | https://www.microsoft.com/en-us/power-platform/blog/power-automate/feed/ | Power Automate category
+work-microsoft | Power Apps blog | https://www.microsoft.com/en-us/power-platform/blog/power-apps/ | https://www.microsoft.com/en-us/power-platform/blog/power-apps/feed/ | Power Apps category
+work-microsoft | Dynamics 365 blog | https://www.microsoft.com/en-us/dynamics-365/blog/ | https://www.microsoft.com/en-us/dynamics-365/blog/feed/ | Dynamics 365 announcements
+work-microsoft | Microsoft Fabric blog | https://blog.fabric.microsoft.com | https://blog.fabric.microsoft.com/en-us/blog/feed/ | Fabric announcements
+work-microsoft | Copilot Studio blog | https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/ | | Copilot Studio announcements
+work-microsoft | Microsoft 365 roadmap | https://www.microsoft.com/en-us/microsoft-365/roadmap | https://www.microsoft.com/releasecommunications/api/v2/m365/rss | every M365 feature change, very high volume
+work-microsoft | Azure updates | https://azure.microsoft.com/en-us/updates/ | https://www.microsoft.com/releasecommunications/api/v2/azure/rss | Azure changes, high volume
+work-microsoft | Matthew Devaney | https://www.matthewdevaney.com | https://www.matthewdevaney.com/feed/ | Power Apps patterns, practitioner
+work-microsoft | Reza Dorrani | https://www.youtube.com/@RezaDorrani | | Power Platform tutorials (YouTube)
+work-microsoft | Shane Young | https://www.youtube.com/@ShanesCows | | Power Apps and Power Automate (YouTube)
+work-microsoft | April Dunnam | https://www.youtube.com/@AprilDunnam | | Power Platform and Copilot (YouTube)
+work-microsoft | Guy in a Cube | https://www.youtube.com/@GuyInACube | | Power BI and Fabric (YouTube)
+work-microsoft | SQLBI | https://www.sqlbi.com | https://www.sqlbi.com/feed/ | DAX and Power BI, expert level
+work-microsoft | r/PowerApps | https://www.reddit.com/r/PowerApps/ | https://www.reddit.com/r/PowerApps/.rss | Power Apps community
+work-microsoft | r/PowerAutomate | https://www.reddit.com/r/PowerAutomate/ | https://www.reddit.com/r/PowerAutomate/.rss | Power Automate community
+work-microsoft | r/MicrosoftFabric | https://www.reddit.com/r/MicrosoftFabric/ | https://www.reddit.com/r/MicrosoftFabric/.rss | Fabric community, Microsoft staff active
+work-microsoft | r/Dynamics365 | https://www.reddit.com/r/Dynamics365/ | https://www.reddit.com/r/Dynamics365/.rss | Dynamics 365 community
+work-microsoft | r/copilotstudio | https://www.reddit.com/r/copilotstudio/ | https://www.reddit.com/r/copilotstudio/.rss | Copilot Studio community
+
+
+game-dev | Godot news | https://godotengine.org/blog/ | https://godotengine.org/rss.xml | Godot engine releases and devlogs
+game-dev | Blender news | https://www.blender.org/news/ | https://www.blender.org/feed/ | Blender releases
+game-dev | BlenderNation | https://www.blendernation.com | https://www.blendernation.com/feed/ | Blender community news and tutorials
+game-dev | Game Developer | https://www.gamedeveloper.com | https://www.gamedeveloper.com/rss.xml | game industry and postmortems
+game-dev | GameFromScratch | https://gamefromscratch.com | https://gamefromscratch.com/feed/ | engine and tool news, FOSS-friendly
+game-dev | 80 Level | https://80.lv | | game art and tech breakdowns
+game-dev | GDQuest | https://www.youtube.com/@Gdquest | | Godot tutorials (YouTube)
+game-dev | Brackeys | https://www.youtube.com/@Brackeys | | Godot tutorials (YouTube)
+game-dev | Sebastian Lague | https://www.youtube.com/@SebastianLague | | coding adventures in graphics and simulation (YouTube)
+game-dev | r/godot | https://www.reddit.com/r/godot/ | https://www.reddit.com/r/godot/.rss | Godot community
+game-dev | r/gamedev | https://www.reddit.com/r/gamedev/ | https://www.reddit.com/r/gamedev/.rss | game developers
+game-dev | r/blender | https://www.reddit.com/r/blender/ | https://www.reddit.com/r/blender/.rss | Blender community
+
+retro-gaming | Time Extension | https://www.timeextension.com | https://www.timeextension.com/feeds/latest | retro gaming news and history
+retro-gaming | RetroRGB | https://www.retrorgb.com | https://www.retrorgb.com/feed | retro consoles, picture quality, mods
+retro-gaming | Libretro / RetroArch | https://www.libretro.com | | FOSS emulation news
+retro-gaming | Modern Vintage Gamer | https://www.youtube.com/@ModernVintageGamer | | console history and homebrew (YouTube)
+retro-gaming | r/wowservers | https://www.reddit.com/r/wowservers/ | https://www.reddit.com/r/wowservers/.rss | private WoW servers
+retro-gaming | r/snes | https://www.reddit.com/r/snes/ | https://www.reddit.com/r/snes/.rss | SNES community
+retro-gaming | r/RetroPie | https://www.reddit.com/r/RetroPie/ | https://www.reddit.com/r/RetroPie/.rss | Raspberry Pi retro builds
+
+3d-printing | Bambu Lab blog | https://blog.bambulab.com | | Bambu printers, firmware, features
+3d-printing | Prusa blog | https://blog.prusa3d.com | https://blog.prusa3d.com/feed/ | printing know-how and Printables news
+3d-printing | CNC Kitchen | https://www.youtube.com/@CNCKitchen | | tested printing tips (YouTube)
+3d-printing | Made with Layers | https://www.youtube.com/@MadeWithLayers | | Thomas Sanladerer, reviews and deep dives (YouTube)
+3d-printing | Fabbaloo | https://www.fabbaloo.com | | 3D printing news
+3d-printing | r/BambuLab | https://www.reddit.com/r/BambuLab/ | https://www.reddit.com/r/BambuLab/.rss | Bambu community
+3d-printing | r/functionalprint | https://www.reddit.com/r/functionalprint/ | https://www.reddit.com/r/functionalprint/.rss | useful prints
+
+home-automation | Home Assistant blog | https://www.home-assistant.io/blog/ | https://www.home-assistant.io/atom.xml | the FOSS home automation platform
+home-automation | r/homeassistant | https://www.reddit.com/r/homeassistant/ | https://www.reddit.com/r/homeassistant/.rss | Home Assistant community
+home-automation | Everything Smart Home | https://www.youtube.com/@EverythingSmartHome | | Home Assistant projects, UK (YouTube)
+
+ebooks-ereaders | Good e-Reader | https://goodereader.com/blog/ | https://goodereader.com/blog/feed | e-ink and e-reader news
+ebooks-ereaders | r/ereader | https://www.reddit.com/r/ereader/ | https://www.reddit.com/r/ereader/.rss | e-reader community
+ebooks-ereaders | Standard Ebooks | https://standardebooks.org | https://standardebooks.org/feeds/atom/new-releases | beautifully made free public-domain ebooks, new releases
+
+productivity-pkm | Bullet Journal | https://bulletjournal.com/blogs/bulletjournalist | | Ryder Carroll's method and essays
+productivity-pkm | r/bulletjournal | https://www.reddit.com/r/bulletjournal/ | https://www.reddit.com/r/bulletjournal/.rss | bullet journal community
+productivity-pkm | Getting Things Done (David Allen Co.) | https://gettingthingsdone.com | | the official GTD blog and podcast
+productivity-pkm | r/gtd | https://www.reddit.com/r/gtd/ | https://www.reddit.com/r/gtd/.rss | GTD practitioners
+productivity-pkm | Cal Newport | https://calnewport.com | https://calnewport.com/feed/ | deep work and slow productivity
+productivity-pkm | Zettelkasten.de | https://zettelkasten.de | | the Zettelkasten method, blog and forum
+productivity-pkm | r/Zettelkasten | https://www.reddit.com/r/Zettelkasten/ | https://www.reddit.com/r/Zettelkasten/.rss | Zettelkasten community
+productivity-pkm | Forte Labs | https://fortelabs.com/blog | https://fortelabs.com/feed/ | Tiago Forte, second brain and PARA
+productivity-pkm | Ness Labs | https://nesslabs.com | https://nesslabs.com/feed | thinking tools and metacognition
+productivity-pkm | MacSparky | https://www.macsparky.com | | Mac and iPhone productivity
+productivity-pkm | Ali Abdaal | https://www.youtube.com/@aliabdaal | | mainstream productivity (YouTube)
+productivity-pkm | r/PKMS | https://www.reddit.com/r/PKMS/ | https://www.reddit.com/r/PKMS/.rss | personal knowledge management
+
+blogging-web | WordPress News | https://wordpress.org/news/ | https://wordpress.org/news/feed/ | WordPress releases
+blogging-web | WP Tavern | https://wptavern.com | https://wptavern.com/feed | WordPress community news
+blogging-web | Smashing Magazine | https://www.smashingmagazine.com | https://www.smashingmagazine.com/feed/ | web design and front-end
+blogging-web | Josh W. Comeau | https://www.joshwcomeau.com | https://www.joshwcomeau.com/rss.xml | CSS and React, beautifully explained
+blogging-web | Kev Quirk | https://kevquirk.com | https://kevquirk.com/feed | personal blogging and the small web, UK
+blogging-web | Manuel Moreale | https://manuelmoreale.com | https://manuelmoreale.com/feed/rss | People and Blogs interviews
+blogging-web | IndieWeb News | https://news.indieweb.org/en | | the independent web
+blogging-web | Jim Nielsen | https://blog.jim-nielsen.com | https://blog.jim-nielsen.com/feed.xml | thoughtful web essays
+blogging-web | Ahrefs blog | https://ahrefs.com/blog/ | https://ahrefs.com/blog/feed/ | SEO, data-backed
+blogging-web | web.dev blog | https://web.dev/blog | | Chrome team on modern web practice
+blogging-web | r/Wordpress | https://www.reddit.com/r/Wordpress/ | https://www.reddit.com/r/Wordpress/.rss | WordPress community
+blogging-web | r/Blogging | https://www.reddit.com/r/Blogging/ | https://www.reddit.com/r/Blogging/.rss | bloggers
+blogging-web | Justin Welsh | https://www.justinwelsh.me | | solo creator and LinkedIn growth
+
+writing-books | Jane Friedman | https://janefriedman.com | https://janefriedman.com/feed/ | the publishing business, plain-spoken
+writing-books | The Creative Penn | https://www.thecreativepenn.com | https://www.thecreativepenn.com/feed/ | Joanna Penn, writing and self-publishing, UK
+writing-books | Writer Unboxed | https://writerunboxed.com | https://writerunboxed.com/feed/ | the craft of writing
+writing-books | ALLi self-publishing advice | https://selfpublishingadvice.org | https://selfpublishingadvice.org/feed/ | Alliance of Independent Authors, UK
+
+photography | PetaPixel | https://petapixel.com | https://petapixel.com/feed/ | photography news
+photography | DPReview | https://www.dpreview.com | https://www.dpreview.com/feeds/news.xml | camera news and reviews
+photography | Nikon Rumors | https://nikonrumors.com | https://nikonrumors.com/feed/ | Nikon news, lenses and firmware
+photography | 35mmc | https://www.35mmc.com | https://www.35mmc.com/feed/ | film and manual photography, UK
+photography | Kosmo Foto | https://www.kosmofoto.com | https://www.kosmofoto.com/feed/ | film photography news, UK
+photography | Sean Tucker | https://www.youtube.com/@seantucker | | thoughtful photography, UK (YouTube)
+photography | r/Nikon | https://www.reddit.com/r/Nikon/ | https://www.reddit.com/r/Nikon/.rss | Nikon users
+
+music-making | Drumeo | https://www.drumeo.com/beat/ | https://www.drumeo.com/beat/feed/ | drumming lessons (YouTube)
+music-making | JustinGuitar | https://www.youtube.com/@JustinGuitar | | guitar lessons (YouTube)
+music-making | Rick Beato | https://www.youtube.com/@RickBeato | | music theory and analysis (YouTube)
+music-making | r/drums | https://www.reddit.com/r/drums/ | https://www.reddit.com/r/drums/.rss | drummers
+
+poetry-classics | The Public Domain Review | https://publicdomainreview.org | https://publicdomainreview.org/rss.xml | curious works out of copyright
+poetry-classics | Antigone | https://antigonejournal.com | https://antigonejournal.com/feed/ | the classics, accessibly
+poetry-classics | Aeon | https://aeon.co | https://aeon.co/feed.rss | long essays on ideas
+poetry-classics | Literary Hub | https://lithub.com | https://lithub.com/feed/ | books and writing
+poetry-classics | The Marginalian | https://www.themarginalian.org | https://www.themarginalian.org/feed/ | Maria Popova on books and life
+poetry-classics | Interesting Literature | https://interestingliterature.com | https://interestingliterature.com/feed/ | classic literature explained, UK
+
+keto-nutrition | Diet Doctor | https://www.dietdoctor.com | https://www.dietdoctor.com/feed | low-carb and keto, evidence-led
+keto-nutrition | Optimising Nutrition | https://optimisingnutrition.com | https://optimisingnutrition.com/feed/ | Marty Kendall, protein leverage and data
+keto-nutrition | Keto Savage | https://www.youtube.com/@KetoSavage | | Robert Sikes, keto bodybuilding (YouTube)
+keto-nutrition | Nutrition Made Simple | https://www.youtube.com/@NutritionMadeSimple | | evidence review, keto-sceptical counterweight (YouTube)
+keto-nutrition | r/keto | https://www.reddit.com/r/keto/ | https://www.reddit.com/r/keto/.rss | keto community
+keto-nutrition | r/ketoscience | https://www.reddit.com/r/ketoscience/ | https://www.reddit.com/r/ketoscience/.rss | keto research papers
+keto-nutrition | r/ketorecipes | https://www.reddit.com/r/ketorecipes/ | https://www.reddit.com/r/ketorecipes/.rss | keto recipes
+
+health-longevity | Peter Attia | https://peterattiamd.com | https://peterattiamd.com/feed/ | longevity medicine, podcast and articles
+health-longevity | Examine | https://examine.com | | supplement and nutrition evidence
+health-longevity | Science-Based Medicine | https://sciencebasedmedicine.org | https://sciencebasedmedicine.org/feed/ | sceptical medicine, the hype filter
+health-longevity | Huberman Lab | https://www.hubermanlab.com | https://feeds.megaphone.fm/hubermanlab | neuroscience podcast (claims run ahead of evidence)
+
+fitness-strength | Stronger By Science | https://www.strongerbyscience.com | https://www.strongerbyscience.com/feed/ | evidence-based strength and hypertrophy
+fitness-strength | Barbell Medicine | https://www.barbellmedicine.com | https://www.barbellmedicine.com/feed/ | training through pain and injury, evidence-based
+fitness-strength | Jeff Nippard | https://www.youtube.com/@JeffNippard | | science-based training (YouTube)
+fitness-strength | Renaissance Periodization | https://www.youtube.com/@RenaissancePeriodization | | hypertrophy programming (YouTube)
+fitness-strength | Squat University | https://www.youtube.com/@SquatUniversity | | injury rehab for hips, knees and back (YouTube)
+fitness-strength | GMB Fitness | https://gmb.io | https://gmb.io/feed/ | mobility, flexibility, skills
+fitness-strength | Tom Merrick | https://www.youtube.com/@TomMerrick | | flexibility and splits (YouTube)
+fitness-strength | Stretch Therapy | https://stretchtherapy.net | | Kit Laughlin's flexibility method
+fitness-strength | r/weightroom | https://www.reddit.com/r/weightroom/ | https://www.reddit.com/r/weightroom/.rss | serious lifting
+fitness-strength | r/bodyweightfitness | https://www.reddit.com/r/bodyweightfitness/ | https://www.reddit.com/r/bodyweightfitness/.rss | calisthenics and skills
+fitness-strength | r/flexibility | https://www.reddit.com/r/flexibility/ | https://www.reddit.com/r/flexibility/.rss | flexibility and splits
+fitness-strength | fightTIPS | https://www.youtube.com/@fightTIPS | | striking technique (YouTube)
+fitness-strength | r/kickboxing | https://www.reddit.com/r/kickboxing/ | https://www.reddit.com/r/kickboxing/.rss | kickboxing community
+
+international-news | BBC News, World | https://www.bbc.co.uk/news/world | https://feeds.bbci.co.uk/news/world/rss.xml | world news
+international-news | The Guardian, World | https://www.theguardian.com/world | https://www.theguardian.com/world/rss | world news
+international-news | Al Jazeera | https://www.aljazeera.com | https://www.aljazeera.com/xml/rss/all.xml | world news, Global South angle
+international-news | DW News | https://www.dw.com/en/ | https://rss.dw.com/rdf/rss-en-all | German public broadcaster, world news
+international-news | NPR World | https://www.npr.org/sections/world/ | https://feeds.npr.org/1004/rss.xml | US public radio, world desk
+international-news | France 24 | https://www.france24.com/en/ | https://www.france24.com/en/rss | world news
+international-news | The Economist, The world this week | https://www.economist.com | https://www.economist.com/the-world-this-week/rss.xml | the week in one page (paywall)
+international-news | Financial Times, World | https://www.ft.com/world | https://www.ft.com/world?format=rss | world news (paywall)
+international-news | Nikkei Asia | https://asia.nikkei.com | https://asia.nikkei.com/rss/feed/nar | Asian business and politics (paywall)
+international-news | The Diplomat | https://thediplomat.com | https://thediplomat.com/feed/ | Asia-Pacific affairs
+international-news | Foreign Policy | https://foreignpolicy.com | https://foreignpolicy.com/feed/ | international affairs analysis (part paywall)
+international-news | The Conversation UK | https://theconversation.com/uk | https://theconversation.com/uk/articles.atom | academics explaining the news
+international-news | Rest of World | https://restofworld.org | https://restofworld.org/feed/latest | technology outside the West
+
+uk-musts | HMRC (gov.uk) | https://www.gov.uk/government/organisations/hm-revenue-customs | https://www.gov.uk/government/organisations/hm-revenue-customs.atom | tax changes and deadlines
+uk-musts | Home Office (gov.uk) | https://www.gov.uk/government/organisations/home-office | https://www.gov.uk/government/organisations/home-office.atom | Home Office announcements
+uk-musts | Which? news | https://www.which.co.uk/news | | consumer warnings, recalls, scams
+uk-musts | BBC News, UK | https://www.bbc.co.uk/news/uk | https://feeds.bbci.co.uk/news/uk/rss.xml | UK news
+
+coffee | James Hoffmann | https://www.youtube.com/@jameshoffmann | | coffee, gear and brewing (YouTube)
+coffee | Lance Hedrick | https://www.youtube.com/@LanceHedrick | | pour-over and espresso technique (YouTube)
+coffee | Sprudge | https://sprudge.com | https://sprudge.com/feed | coffee news and culture
+coffee | Barista Hustle | https://www.baristahustle.com | | coffee science
+coffee | Perfect Daily Grind | https://perfectdailygrind.com | https://perfectdailygrind.com/feed/ | coffee industry and brewing
+coffee | r/pourover | https://www.reddit.com/r/pourover/ | https://www.reddit.com/r/pourover/.rss | pour-over brewing
+coffee | r/espresso | https://www.reddit.com/r/espresso/ | https://www.reddit.com/r/espresso/.rss | espresso (manual presses included)
+
+cigars | halfwheel | https://halfwheel.com | https://halfwheel.com/feed/ | the leading cigar news site
+cigars | Cigar Journal | https://www.cigarjournal.com | | international cigar magazine
+
+baking-bread | The Perfect Loaf | https://www.theperfectloaf.com | https://www.theperfectloaf.com/feed/ | sourdough, serious
+baking-bread | King Arthur Baking blog | https://www.kingarthurbaking.com/blog | | baking technique
+baking-bread | Bake with Jack | https://www.youtube.com/@BakewithJack | | bread baking, UK (YouTube)
+baking-bread | r/Breadit | https://www.reddit.com/r/Breadit/ | https://www.reddit.com/r/Breadit/.rss | bread bakers
+baking-bread | r/Sourdough | https://www.reddit.com/r/Sourdough/ | https://www.reddit.com/r/Sourdough/.rss | sourdough bakers
+
+style-clothing | Permanent Style | https://www.permanentstyle.com | https://www.permanentstyle.com/feed | menswear quality and tailoring, UK
+style-clothing | Die, Workwear! | https://dieworkwear.com | https://dieworkwear.com/feed/ | classic menswear, thoughtful
+style-clothing | Put This On | https://putthison.com | | menswear on a budget
+style-clothing | r/malefashionadvice | https://www.reddit.com/r/malefashionadvice/ | https://www.reddit.com/r/malefashionadvice/.rss | menswear basics
+
+stack-releases | Godot releases | https://github.com/godotengine/godot | https://github.com/godotengine/godot/releases.atom | the Godot engine
+stack-releases | Syncthing releases | https://github.com/syncthing/syncthing | https://github.com/syncthing/syncthing/releases.atom | continuous file sync
+stack-releases | Neovim releases | https://github.com/neovim/neovim | https://github.com/neovim/neovim/releases.atom | the editor
+stack-releases | Ollama releases | https://github.com/ollama/ollama | https://github.com/ollama/ollama/releases.atom | local model runner
+stack-releases | KataGo releases | https://github.com/lightvector/KataGo | https://github.com/lightvector/KataGo/releases.atom | the Go engine behind KaTrain
+stack-releases | KaTrain releases | https://github.com/sanderland/katrain | https://github.com/sanderland/katrain/releases.atom | Go game review with AI analysis
+stack-releases | Immich releases | https://github.com/immich-app/immich | https://github.com/immich-app/immich/releases.atom | self-hosted photo archive
+stack-releases | Jellyfin releases | https://github.com/jellyfin/jellyfin | https://github.com/jellyfin/jellyfin/releases.atom | media server
+stack-releases | Navidrome releases | https://github.com/navidrome/navidrome | https://github.com/navidrome/navidrome/releases.atom | FOSS music server
+stack-releases | Snapcast releases | https://github.com/badaix/snapcast | https://github.com/badaix/snapcast/releases.atom | FOSS multi-room audio
+stack-releases | Music Assistant releases | https://github.com/music-assistant/server | https://github.com/music-assistant/server/releases.atom | music library to any speaker
+stack-releases | moOde audio releases | https://github.com/moode-player/moode | https://github.com/moode-player/moode/releases.atom | Raspberry Pi audio player
+stack-releases | Calibre releases | https://github.com/kovidgoyal/calibre | https://github.com/kovidgoyal/calibre/releases.atom | ebook manager
+stack-releases | Calibre-Web releases | https://github.com/janeczku/calibre-web | https://github.com/janeczku/calibre-web/releases.atom | web front end for a Calibre library
+stack-releases | KOReader releases | https://github.com/koreader/koreader | https://github.com/koreader/koreader/releases.atom | e-reader software with progress sync
+stack-releases | CrossPoint releases | https://github.com/crosspoint-reader/crosspoint-reader | https://github.com/crosspoint-reader/crosspoint-reader/releases.atom | open firmware for the Xteink X4 e-reader
+stack-releases | OrcaSlicer releases | https://github.com/SoftFever/OrcaSlicer | https://github.com/SoftFever/OrcaSlicer/releases.atom | FOSS slicer
+stack-releases | Bambu Studio releases | https://github.com/bambulab/BambuStudio | https://github.com/bambulab/BambuStudio/releases.atom | Bambu's own slicer
+stack-releases | Claude Code releases | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code/releases.atom | Anthropic's coding agent (frequent)
+stack-releases | vMangos commits | https://github.com/vmangos/core | https://github.com/vmangos/core/commits/development.atom | WoW 1.12 server core
+stack-releases | whisper.cpp releases | https://github.com/ggml-org/whisper.cpp | https://github.com/ggml-org/whisper.cpp/releases.atom | local speech-to-text
+stack-releases | Headscale releases | https://github.com/juanfont/headscale | https://github.com/juanfont/headscale/releases.atom | the FOSS Tailscale server
+stack-releases | godot-ai releases | https://github.com/hi-godot/godot-ai | https://github.com/hi-godot/godot-ai/releases.atom | an MCP server for the Godot editor

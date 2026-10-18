@@ -1,0 +1,66 @@
+# topic | name | homepage | feed (blank = discover) | what it is
+# Added 11 Oct 2026: philosophy, psychology, more retro gaming, history, languages, science, career, home DIY. Checked by check_sources.py before they count.
+
+
+philosophy | Daily Nous | https://dailynous.com | https://dailynous.com/feed/ | news of and about academic philosophy
+philosophy | Stanford Encyclopedia of Philosophy | https://plato.stanford.edu | https://plato.stanford.edu/rss/sep.xml | new and revised entries
+philosophy | Edward Feser | https://edwardfeser.blogspot.com | https://edwardfeser.blogspot.com/feeds/posts/default | a Thomist philosopher's blog
+philosophy | Philosophy Now | https://philosophynow.org | | UK philosophy magazine for general readers
+philosophy | The Point | https://thepointmag.com | https://thepointmag.com/feed/ | philosophical essays on how we live
+philosophy | Institute of Art and Ideas | https://iai.tv | | debates and essays, London
+philosophy | Jordan B. Peterson | https://www.youtube.com/@JordanBPeterson | | lectures and podcast (YouTube)
+philosophy | Partially Examined Life | https://partiallyexaminedlife.com | | philosophy podcast, close reading of texts
+philosophy | r/philosophy | https://www.reddit.com/r/philosophy/ | https://www.reddit.com/r/philosophy/.rss | philosophy community
+
+psychology | Experimental History | https://www.experimental-history.com | https://www.experimental-history.com/feed | Adam Mastroianni, sharp essays on psychology and science
+psychology | After Babel | https://www.afterbabel.com | https://www.afterbabel.com/feed | Jonathan Haidt on teenagers, phones and society
+psychology | Astral Codex Ten | https://www.astralcodexten.com | https://www.astralcodexten.com/feed | Scott Alexander: psychiatry, reasoning, ideas
+psychology | Behavioral Scientist | https://behavioralscientist.org | https://behavioralscientist.org/feed/ | behavioural science for general readers
+psychology | Psyche | https://psyche.co | | psychology and philosophy of living, from Aeon
+psychology | The Psychologist (BPS) | https://www.bps.org.uk/psychologist | | the British Psychological Society's magazine
+psychology | Hidden Brain | https://hiddenbrain.org | | psychology podcast
+psychology | Greater Good Magazine | https://greatergood.berkeley.edu | | the science of a meaningful life, Berkeley
+
+history | HistoryExtra | https://www.historyextra.com | https://www.historyextra.com/feed/ | BBC History Magazine's site and podcast, UK
+history | History Today | https://www.historytoday.com | | UK history magazine
+history | Dan Carlin's Hardcore History | https://www.dancarlin.com | https://feeds.feedburner.com/dancarlin/history?format=xml | long narrative history episodes (rare, superb)
+history | Medievalists.net | https://www.medievalists.net | https://www.medievalists.net/feed/ | medieval history news and articles
+history | Smithsonian, history | https://www.smithsonianmag.com/history/ | https://www.smithsonianmag.com/rss/history/ | history features
+history | The Rest Is History | https://therestishistory.com | | Tom Holland and Dominic Sandbrook's podcast, UK
+history | China History Podcast | https://teacup.media/china-history-podcast/ | | Laszlo Montgomery on Chinese history
+
+languages | Hacking Chinese | https://www.hackingchinese.com | https://www.hackingchinese.com/feed/ | Olle Linge on learning (and teaching) Chinese well
+languages | InnerFrench | https://www.youtube.com/@innerfrench | | intermediate French, spoken slowly (YouTube)
+languages | Coffee Break French | https://coffeebreaklanguages.com | | French podcast for busy adults, Glasgow
+languages | Steve Kaufmann | https://www.youtube.com/@Thelinguist | | a polyglot on how adults learn languages (YouTube)
+languages | r/languagelearning | https://www.reddit.com/r/languagelearning/ | https://www.reddit.com/r/languagelearning/.rss | language-learning method
+languages | r/French | https://www.reddit.com/r/French/ | https://www.reddit.com/r/French/.rss | French learners
+languages | r/ChineseLanguage | https://www.reddit.com/r/ChineseLanguage/ | https://www.reddit.com/r/ChineseLanguage/.rss | learners of Chinese
+
+science | Quanta Magazine | https://www.quantamagazine.org | https://www.quantamagazine.org/feed/ | deep, clear science and maths writing
+science | Ars Technica, science | https://arstechnica.com/science/ | https://feeds.arstechnica.com/arstechnica/science | science news with substance
+science | New Scientist | https://www.newscientist.com | https://www.newscientist.com/feed/home/ | UK science weekly (paywall)
+science | NASA | https://www.nasa.gov | https://www.nasa.gov/feed/ | missions and discoveries
+science | Veritasium | https://www.youtube.com/@veritasium | | science explained (YouTube)
+science | 3Blue1Brown | https://www.youtube.com/@3blue1brown | | maths, beautifully animated (YouTube)
+science | Scott Manley | https://www.youtube.com/@scottmanley | | space and rocketry (YouTube)
+
+career-leadership | Manager Tools | https://www.manager-tools.com | | practical management podcast: meetings, feedback, delegation
+career-leadership | Irrational Exuberance (Will Larson) | https://lethain.com | https://lethain.com/feeds/ | engineering leadership and strategy
+career-leadership | Lara Hogan | https://larahogan.me | | managing and leading engineers
+career-leadership | Ask a Manager | https://www.askamanager.org | https://www.askamanager.org/feed | workplace questions answered
+career-leadership | HBR IdeaCast | https://hbr.org/podcasts/ideacast | https://feeds.harvardbusiness.org/harvardbusiness/ideacast | Harvard Business Review's weekly podcast
+career-leadership | Level Up (Pat Kua) | https://levelup.patkua.com | https://levelup.patkua.com/feed | tech leadership newsletter
+career-leadership | Charity Majors | https://charity.wtf | https://charity.wtf/feed/ | engineering leadership, candid
+
+home-diy | r/DIYUK | https://www.reddit.com/r/DIYUK/ | https://www.reddit.com/r/DIYUK/.rss | UK home DIY
+home-diy | Skill Builder | https://www.youtube.com/@SkillBuilder | | UK trades and DIY skills (YouTube)
+home-diy | Ultimate Handyman | https://www.youtube.com/@ultimatehandyman | | UK DIY and tools (YouTube)
+
+retro-gaming | The Retro Hour | https://theretrohour.com | | UK retro gaming podcast
+retro-gaming | Retro Dodo | https://retrododo.com | https://retrododo.com/feed/ | retro handhelds and gaming news
+retro-gaming | My Life in Gaming | https://www.youtube.com/@mylifeingaming | | retro hardware and best-picture setups (YouTube)
+retro-gaming | The 8-Bit Guy | https://www.youtube.com/@The8BitGuy | | retro computers and restorations (YouTube)
+retro-gaming | Metal Jesus Rocks | https://www.youtube.com/@MetalJesusRocks | | retro game collecting and hidden gems (YouTube)
+retro-gaming | Game Sack | https://www.youtube.com/@GameSack | | retro console libraries (YouTube)
+retro-gaming | r/SBCGaming | https://www.reddit.com/r/SBCGaming/ | https://www.reddit.com/r/SBCGaming/.rss | retro handhelds and single-board gaming

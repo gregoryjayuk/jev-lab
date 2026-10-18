@@ -1,0 +1,135 @@
+# Research batch A (11 Oct 2026): brush painting, magic, juggling, tai chi and kung fu, memory, Go, hi-fi, survival.
+# Each found with evidence of recent activity; every line is still checked by check_sources.py before it counts.
+
+brush-painting | Chinese Brush Painters Society | https://cbps.org.uk/ | https://cbps.org.uk/feed/ | the UK national society: exhibitions, regional groups, teachers, study features
+brush-painting | Stone and Water Studio | https://www.stoneandwaterstudio.co.uk/ | https://www.stoneandwaterstudio.co.uk/feed/ | a CBPS teacher's class and workshop subjects, intermediate
+brush-painting | Henry Li, BlueHeronArts | https://www.youtube.com/@blueheronarts | https://www.youtube.com/feeds/videos.xml?channel_id=UCBxFaxRE_owo_MuFY0HK9OA | demonstrations, live sessions and seal carving, intermediate to advanced (YouTube)
+brush-painting | Traditional Chinese Paintings | https://www.youtube.com/@traditionalchinesepainting | https://www.youtube.com/feeds/videos.xml?channel_id=UCGpDwNvcyuuMULt8mFdif1g | step-by-step bird-and-flower and animal ink (YouTube)
+brush-painting | Oriental Art Supply with Ning Yeh | https://www.youtube.com/@OASart | https://www.youtube.com/feeds/videos.xml?channel_id=UCUgLjQs_E0CHhLhUY_JdEdg | lessons, many with veteran teacher Ning Yeh (YouTube, commercial)
+brush-painting | Kate Wu | https://www.youtube.com/@KateWuArt | https://www.youtube.com/feeds/videos.xml?channel_id=UC4bEOXz_TUuHczrziG9l6Aw | Chinese painting tutorials in English (YouTube)
+brush-painting | Chinese ink and water landscape painting | https://www.youtube.com/@inkandwaterlandscapepainting | https://www.youtube.com/feeds/videos.xml?channel_id=UC_OQ_uYXGebDwGFOii3yIAA | numbered shan shui lesson series (YouTube)
+brush-painting | Chinese Painting Bingduan | https://www.youtube.com/@Bingduan_ChinesePainting | https://www.youtube.com/feeds/videos.xml?channel_id=UC3sDAeYuh1XtytT6FwpivQw | short xieyi demonstrations (YouTube)
+brush-painting | Tsujikaze Sumi-e | https://www.youtube.com/@tsujikaze_sumie | https://www.youtube.com/feeds/videos.xml?channel_id=UCuZj-ng720qvn-83sCI8Vng | Japanese sumi-e technique (YouTube)
+brush-painting | Asian Art Newspaper | https://asianartnewspaper.com/ | https://asianartnewspaper.com/feed/ | London monthly on Asian art exhibitions and museums (part paywall)
+brush-painting | Orientations | https://www.orientations.com.hk/ | | scholarly Asian art history incl. Chinese painting (paywalled)
+brush-painting | Asian Art in London | https://www.asianartinlondon.com/ | | the annual London festival, 29 Oct to 10 Nov 2026
+brush-painting | Sumi-e Society of America | https://sumiesociety.org/ | | juried exhibitions, chapters, workshops
+brush-painting | INKstudio | https://www.inkstudio.com.cn/ | | gallery for contemporary Chinese ink art
+brush-painting | r/sumie | https://www.reddit.com/r/sumie/ | https://www.reddit.com/r/sumie/.rss | sumi-e and East Asian ink community
+brush-painting | r/ChinesePainting | https://www.reddit.com/r/ChinesePainting/ | https://www.reddit.com/r/ChinesePainting/.rss | Chinese painting community
+
+magic | Genii Magazine | https://www.geniimagic.com/ | https://www.geniimagic.com/rss/ | the long-running magic monthly: sleight of hand, history, reviews (paywalled)
+magic | The Jerx | https://www.thejerx.com/ | https://www.thejerx.com/blog?format=rss | contrarian theory of social close-up magic and presentation
+magic | MagicWeek | https://www.magicweek.co.uk/ | | UK magic news: clubs, conventions, lectures
+magic | Cardopolis (David Britland) | https://cardopolis.substack.com/ | https://cardopolis.substack.com/feed | card magic history and gambling sleights (part paywall)
+magic | Vanish Magazine | https://www.vanishmagazine.com/ | | digital magic magazine (flipbook)
+magic | Vanishing Inc. blog | https://www.vanishingincmagic.co.uk/blog/ | https://www.vanishingincmagic.co.uk/blog/rss | theory, history and card magic (commercial)
+magic | Michael Close | https://michaelclose.com/blogs/michael-close-blog | https://michaelclose.com/blogs/michael-close-blog.atom | a veteran close-up performer on theory and practice
+magic | The Magic Word Podcast | https://www.themagicwordpodcast.com/ | https://www.themagicwordpodcast.com/scottwellsmagic?format=rss | long interviews with working magicians
+magic | Discourse in Magic | https://discourseinmagic.com/ | https://discourseinmagic.com/feed/podcast | creativity, performance and the business of magic
+magic | The Magic Book Podcast | https://themagicbookpodcast.com/ | https://feeds.captivate.fm/the-magic-book-podcast/ | magic books and their authors
+magic | The Magic Detective | https://magicdetectivepodcast.com/ | https://magicdetectivepodcast.com/feed.xml | magic history: Houdini and the golden age
+magic | Craig Petty's Magic TV | https://www.youtube.com/@magic-tv | https://www.youtube.com/feeds/videos.xml?channel_id=UCJPEdFF3SjIewaCBZtRWSgQ | a UK magician for working magicians (YouTube)
+magic | Michael Vincent | https://www.youtube.com/@MichaelVincentMagic | https://www.youtube.com/feeds/videos.xml?channel_id=UCqJoecUmp0s6xncf9OXH3cQ | British close-up and card magic (YouTube)
+magic | Jason Ladanye | https://www.youtube.com/@CardMagicByJason | https://www.youtube.com/feeds/videos.xml?channel_id=UCQsmxaMzYr76Yd1iqMEq8TA | card cheating and gambling sleights (YouTube)
+magic | The Magic Café | https://www.themagiccafe.com/forums/ | | the long-running magicians' forum
+magic | r/Magic | https://www.reddit.com/r/Magic/ | https://www.reddit.com/r/Magic/.rss | magic tricks and sleight of hand (not the card game)
+
+juggling | IJA eJuggle | https://www.juggle.org/ | https://www.juggle.org/feed/ | the International Jugglers' Association: articles, festivals, records
+juggling | IJA Jugglers | https://www.youtube.com/@IJAvideo | https://www.youtube.com/feeds/videos.xml?channel_id=UCiFNsbm_4oT483Mkwhq3nvg | Tricks of the Month, championships (YouTube)
+juggling | Drop Everything Podcast | https://www.juggle.org/series/ejuggle-podcasts/ | https://www.juggle.org/feed/podcast/ejuggle-podcasts/ | the IJA's interview podcast
+juggling | Juggling Interviews with XavJuggles | https://www.juggle.org/series/juggling-interviews-hosted-by-xavjuggles/ | https://www.juggle.org/feed/podcast/juggling-interviews-hosted-by-xavjuggles/ | IJA interviews with contemporary jugglers
+juggling | The Juggling Edge | https://www.jugglingedge.com/ | https://jugglingedge.com/feeds/smallposts.xml | juggling community hub: forum and practice logs
+juggling | The Juggling Edge, events | https://www.jugglingedge.com/ | https://jugglingedge.com/feeds/latestevents.xml | the worldwide convention calendar
+juggling | British Juggling Convention 2027 | https://www.bjc2027.co.uk/ | | Forest Row, East Sussex, 26 Mar to 1 Apr 2027
+juggling | European Juggling Association | https://eja.net/ | | the European Juggling Convention's organiser
+juggling | World Juggling Federation | https://www.youtube.com/@WJF | https://www.youtube.com/feeds/videos.xml?channel_id=UChatcrjWcjllYC-ztXacIdA | elite technical juggling (YouTube)
+juggling | Juggling Lab releases | https://jugglinglab.org/ | https://github.com/jkboyce/jugglinglab/releases.atom | the open-source siteswap animator
+juggling | Lauri Koskinen, Juggling Mastery | https://www.youtube.com/@JugglingMastery | https://www.youtube.com/feeds/videos.xml?channel_id=UC8QA6Dqx10Kk2LZfBtGbukA | numbers juggling tutorials and puzzles (YouTube)
+juggling | Luke Burrage | https://www.youtube.com/@lukeburrage | https://www.youtube.com/feeds/videos.xml?channel_id=UCVlB8OnzhRuIsFaT4nWJOJg | ring numbers and juggling projects (YouTube)
+juggling | Jay Gilligan | https://www.youtube.com/@jaygilligan | https://www.youtube.com/feeds/videos.xml?channel_id=UC4e_MtAd73HGUoF8OVa68bQ | an innovator and teacher's projects (YouTube)
+juggling | Gandini Juggling | https://www.youtube.com/@gandinijuggling | https://www.youtube.com/feeds/videos.xml?channel_id=UCd9AxHd0N8UXg0G_U9BE29A | the UK juggling company (YouTube)
+juggling | MadJugglerTV | https://www.youtube.com/@MadJugglerTV | https://www.youtube.com/feeds/videos.xml?channel_id=UCEVbh3g1X6GpmoXfauBYnxg | numbers practice and endurance runs (YouTube)
+juggling | Thoughts on Juggling | https://podcasters.spotify.com/pod/show/christian-hauschild | https://anchor.fm/s/35109c28/podcast/rss | convention-recorded interviews about practice
+juggling | r/juggling | https://www.reddit.com/r/juggling/ | https://www.reddit.com/r/juggling/.rss | records, siteswap and progress clips
+
+martial-arts-taichi | Tai Chi and Internal Arts Union | https://www.taichiunion.com/ | https://www.taichiunion.com/feed/ | the UK umbrella body: news, articles, events
+martial-arts-taichi | The Tai Chi Notebook | https://thetaichinotebook.com/ | https://thetaichinotebook.com/feed/ | Graham Barlow (UK) on internal-arts history and application
+martial-arts-taichi | Practical Method, Chen Zhonghua | https://practicalmethod.com/ | https://practicalmethod.com/feed/ | Chen-style Practical Method training notes, advanced
+martial-arts-taichi | Chen-Stil Taijiquan Netzwerk | https://www.youtube.com/@taijiquanTV | https://www.youtube.com/feeds/videos.xml?channel_id=UCPo_1M6nlHMCWl7tsKBhj5g | Chen taijiquan movement dynamics; also runs London workshops (YouTube)
+martial-arts-taichi | Damo Mitchell, Lotus Nei Gong | https://www.youtube.com/@LotusNeiGong | https://www.youtube.com/feeds/videos.xml?channel_id=UCjHBvUl25R9pz2SA7DhFDMw | nei gong and taijiquan, UK school (YouTube)
+martial-arts-taichi | Martial Arts Studies journal | https://mas.cardiffuniversitypress.org/ | https://account.mas.cardiffuniversitypress.org/index.php/uc-j-mas/gateway/plugin/WebFeedGatewayPlugin/atom | open-access scholarship on martial arts, Cardiff
+martial-arts-taichi | Martial Arts Studies podcast | https://martialartsstudies.podbean.com/ | https://feed.podbean.com/martialartsstudies/feed.xml | researcher interviews and conference talks
+martial-arts-taichi | The Neijiaquan Podcast | https://neijiaquan.podbean.com/ | https://feed.podbean.com/neijiaquan/feed.xml | internal martial artists interviewed
+martial-arts-taichi | Internal Fighting Arts | https://www.internalfightingarts.com/ | https://rss.libsyn.com/shows/290624/destinations/2273144.xml | Chen tai chi, xingyi and bagua application podcast
+martial-arts-taichi | Brennan Translation | https://brennantranslation.wordpress.com/ | https://brennantranslation.wordpress.com/feed/ | translations of historical Chinese martial-arts manuals
+martial-arts-taichi | Internal Arts International | https://www.internalartsinternational.com/ | https://www.internalartsinternational.com/feed/ | bagua and xingyi, Tom Bisio's school
+martial-arts-taichi | Kung Fu Tai Chi Magazine | https://www.kungfumagazine.com/ | | kung fu and tai chi news and features
+martial-arts-taichi | Kung Fu Conversations | https://www.instagram.com/kfconversations/ | https://anchor.fm/s/5af3a804/podcast/rss | traditional kung fu philosophy and training podcast
+martial-arts-taichi | r/taijiquan | https://www.reddit.com/r/taijiquan/ | https://www.reddit.com/r/taijiquan/.rss | serious taijiquan practice and lineage history
+martial-arts-taichi | r/kungfu | https://www.reddit.com/r/kungfu/ | https://www.reddit.com/r/kungfu/.rss | traditional Chinese martial arts
+
+memory | Art of Memory Forum | https://forum.artofmemory.com/ | https://forum.artofmemory.com/latest.rss | memory palaces, systems, language learning, competition
+memory | International Association of Memory | https://www.iam-memory.org/ | https://www.iam-memory.org/feed/ | memory-sport calendar, results, rankings
+memory | World Memory Championships | https://www.worldmemorychampionships.com/ | https://www.worldmemorychampionships.com/feed/ | the championships and qualifiers (feed updates rarely)
+memory | MemorysportsTV | https://www.youtube.com/@MemorysportsTV | https://www.youtube.com/feeds/videos.xml?channel_id=UCKBR6TxAbA7inphAArF1W6Q | top memory athletes' matches (YouTube)
+memory | USA Memory Championship | https://www.youtube.com/@USAMemoryChampship | https://www.youtube.com/feeds/videos.xml?channel_id=UC_0SWihdWO8T3RE6Vlxkqvg | the US championship (YouTube)
+memory | Nelson Dellis | https://www.youtube.com/@NelsonDellis | https://www.youtube.com/feeds/videos.xml?channel_id=UCnINhoHWuVjUDXp7dav5e3A | memory feats and techniques (YouTube)
+memory | Magnetic Memory Method Podcast | https://www.magneticmemorymethod.com/ | https://rss.libsyn.com/shows/50094/destinations/175018.xml | memory palaces for languages and study
+memory | The Mnemonic Memory Podcast | https://www.buzzsprout.com/1868752 | https://rss.buzzsprout.com/1868752.rss | one mnemonic story per list of facts
+memory | Tansel Ali | https://www.youtube.com/@TanselAliMemory | https://www.youtube.com/feeds/videos.xml?channel_id=UCyNbNHIpyWcefiXS7dINMJA | Australian memory champion on technique (YouTube)
+memory | Johnny Briones | https://www.youtube.com/@JohnnyBriones | https://www.youtube.com/feeds/videos.xml?channel_id=UCeAJS8VHBBII49eHGeBij1g | memory athlete's tutorials and records (YouTube)
+memory | Emma Alam | https://www.youtube.com/@EmmaAlamChampion | https://www.youtube.com/feeds/videos.xml?channel_id=UCuEOMf2NDWbyr8gNjh0e3mw | short memory exercises (YouTube)
+memory | Lynne Kelly | https://www.lynnekelly.com.au/ | | memory palaces, songlines and ancient memory methods
+memory | r/MemoryPalace | https://www.reddit.com/r/MemoryPalace/ | https://www.reddit.com/r/MemoryPalace/.rss | building and using memory palaces
+
+go | British Go Association | https://www.britgo.org/ | https://www.britgo.org/xml.rss | UK tournaments, results and events
+go | European Go Federation | https://www.eurogofed.org/ | https://www.eurogofed.org/feed/ | European championships, team league, pro system
+go | European Go Federation (YouTube) | https://www.youtube.com/@EuropeanGoFederation | https://www.youtube.com/feeds/videos.xml?channel_id=UC5Y4xN0IWkZrmMp7bE0CtSw | European pros reviewing championship games (YouTube)
+go | OGS Forums | https://forums.online-go.com/ | https://forums.online-go.com/latest.rss | busy Go forum: news, tools, AI, teaching
+go | r/baduk | https://www.reddit.com/r/baduk/ | https://www.reddit.com/r/baduk/.rss | pro news, reviews, AI talk
+go | r/cbaduk | https://www.reddit.com/r/cbaduk/ | https://www.reddit.com/r/cbaduk/.rss | computer Go and Go AI
+go | Go Magic | https://www.youtube.com/@GoMagic | https://www.youtube.com/feeds/videos.xml?channel_id=UCqerkZelwpOiq56XXPmfZSQ | lecture series and pro/AI game reviews (YouTube)
+go | Michael Redmond's Go TV | https://www.youtube.com/@MichaelRedmondsGoTV | https://www.youtube.com/feeds/videos.xml?channel_id=UCRJyagla1B5cxIfR4i2LdgA | a 9-dan's commentary on classical and modern games (YouTube)
+go | Jianqiu Chen | https://www.youtube.com/@JianqiuChen | https://www.youtube.com/feeds/videos.xml?channel_id=UC_JMmeMNUVqeHdgzFwwYCZA | commentary on top pro and AI games (YouTube)
+go | Go Pro Yeonwoo | https://www.youtube.com/@GoProYeonwoo | https://www.youtube.com/feeds/videos.xml?channel_id=UC_AU7Wu_tKhFIRjrJZgYA9w | Korean pro's reviews and teaching (YouTube)
+go | Telegraph Go | https://www.youtube.com/@telegraphgo | https://www.youtube.com/feeds/videos.xml?channel_id=UCJ8bZ_fK5G5o23pJ4DZAx8g | AI-era play analysed, advanced (YouTube)
+go | Nick Sibicky | https://www.youtube.com/@NickSibicky | https://www.youtube.com/feeds/videos.xml?channel_id=UC_msctwlIh2cwM8yAtaju1A | club lectures on strategy and fighting (YouTube)
+go | All Things Go | https://allthingsgogame.com/ | https://feeds.alitu.com/55329506 | Go podcast: interviews and pro roundups
+go | Star Point | https://starpointbaduk.com/ | https://anchor.fm/s/e751e9f0/podcast/rss | weekly Go podcast on improvement and AI
+
+hifi-audio | Hi-Fi News and Record Review | https://www.hifinews.com/ | https://www.hifinews.com/rss.xml | UK monthly, lab-measured reviews (part paywall)
+hifi-audio | What Hi-Fi? | https://www.whathifi.com/ | https://www.whathifi.com/feeds.xml | UK consumer reviews incl. CD players and streamers
+hifi-audio | Hi-Fi Choice | https://www.hifichoice.com/ | https://www.hifichoice.com/rss.xml | UK reviews and group tests (part paywall)
+hifi-audio | Hi-Fi+ | https://hifiplus.com/ | | UK high-end audio and music reviews
+hifi-audio | The Ear | https://the-ear.net/ | https://the-ear.net/feed/ | UK online hi-fi magazine
+hifi-audio | Stereophile | https://www.stereophile.com/ | https://www.stereophile.com/rss.xml | reviews with full bench measurements
+hifi-audio | SoundStage! Hi-Fi | https://www.soundstagehifi.com/ | https://www.soundstagehifi.com/index.php?format=feed&type=rss | measurement-backed reviews and industry analysis
+hifi-audio | Audio Science Review: DACs, streamers and players | https://www.audiosciencereview.com/forum/ | https://www.audiosciencereview.com/forum/index.php?forums/dacs-streamers-servers-players-audio-interface.8/index.rss | measurement-first tests of DACs and players
+hifi-audio | Archimago's Musings | https://archimago.blogspot.com/ | https://archimago.blogspot.com/feeds/posts/default | measurements, digital filters, blind tests
+hifi-audio | Steve Hoffman Music Forums | https://forums.stevehoffman.tv/ | https://forums.stevehoffman.tv/forums/-/index.rss | mastering, pressings, CD editions, playback gear
+hifi-audio | AudioKarma | https://audiokarma.org/forums/ | https://audiokarma.org/forums/index.php?forums/-/index.rss | vintage audio restoration and repairs
+hifi-audio | Pink Fish Media | https://pinkfishmedia.net/forum/ | https://pinkfishmedia.net/forum/forums/-/index.rss | UK hi-fi forum, classic British gear (blocks scripted readers)
+hifi-audio | SuperDeluxeEdition | https://superdeluxeedition.com/ | https://superdeluxeedition.com/feed/ | CD, vinyl and Blu-ray reissues and box sets, UK
+hifi-audio | Techmoan | https://www.youtube.com/@Techmoan | https://www.youtube.com/feeds/videos.xml?channel_id=UC5I2hjZYiW9gZPVkvzM8_Cw | old and new audio formats and players, UK (YouTube)
+hifi-audio | Erin's Audio Corner | https://www.youtube.com/@ErinsAudioCorner | https://www.youtube.com/feeds/videos.xml?channel_id=UCW_IqM21u0J-zsKtCq4Gj2w | measurement-led speaker and gear reviews (YouTube)
+hifi-audio | A British Audiophile | https://www.youtube.com/@abritishaudiophile7314 | https://www.youtube.com/feeds/videos.xml?channel_id=UCMADmrBg2mMall8bpC4anQQ | new and vintage hi-fi reviewed, UK (YouTube)
+hifi-audio | r/cd_collectors | https://www.reddit.com/r/cd_collectors/ | https://www.reddit.com/r/cd_collectors/.rss | CD collecting: editions, pressings, players
+hifi-audio | r/vintageaudio | https://www.reddit.com/r/vintageaudio/ | https://www.reddit.com/r/vintageaudio/.rss | vintage hi-fi finds and repairs
+
+survival | BushcraftUK | https://bushcraftuk.com/community/ | https://bushcraftuk.com/community/forums/-/index.rss | the large UK bushcraft forum (blocks scripted readers)
+survival | Bushcraft Magazine | https://www.bushcraftmagazine.com/ | | UK print magazine (paywalled)
+survival | Paul Kirtley | https://paulkirtley.co.uk/ | https://paulkirtley.co.uk/feed/ | UK instructor's in-depth wilderness-skills articles and podcast
+survival | Ray Mears, Woodlore | https://raymears.com/blogs/news | https://raymears.com/blogs/news.atom | foraging and seasonal skills (commercial)
+survival | Wildwood Bushcraft | https://www.wildwoodbushcraft.com/ | https://www.wildwoodbushcraft.com/blog-feed.xml | UK survival school: foraging, coastal skills
+survival | Jack Raven Bushcraft | https://www.jackravenbushcraft.co.uk/ | https://www.jackravenbushcraft.co.uk/feed/ | Kent school: ember cooking, woodland management
+survival | Eatweeds (Robin Harford) | https://www.eatweeds.co.uk/ | https://www.eatweeds.co.uk/feed | UK wild food and foraging
+survival | TA Outdoors | https://www.youtube.com/@TAOutdoors | https://www.youtube.com/feeds/videos.xml?channel_id=UC2SMpy2oZV6BoyJEYShw9bw | UK solo bushcraft camps and shelters (YouTube)
+survival | Andrew Thomas Price | https://www.youtube.com/@andrewthomasprice1557 | https://www.youtube.com/feeds/videos.xml?channel_id=UCxl3jpRrbxvvTZsLY98K9sw | UK wilderness-skills instructor (YouTube)
+survival | EastAnglianBushcraft | https://www.youtube.com/@EastAnglianBushcraft | https://www.youtube.com/feeds/videos.xml?channel_id=UCYvKov6rV716A4iU_n1figg | year-round wild camping (YouTube)
+survival | UK Preppers Guide | https://www.youtube.com/@UKpreppersGuide | https://www.youtube.com/feeds/videos.xml?channel_id=UC8Vn4ZtxZKVlACHj7GTQ8aA | UK home resilience; titles can be dramatic (YouTube)
+survival | Mind4Survival | https://mind4survival.com/ | https://rss.libsyn.com/shows/78453/destinations/356175.xml | practical preparedness podcast
+survival | r/Bushcraft | https://www.reddit.com/r/Bushcraft/ | https://www.reddit.com/r/Bushcraft/.rss | bushcraft community
+survival | r/bushcraftUK | https://www.reddit.com/r/bushcraftUK/ | https://www.reddit.com/r/bushcraftUK/.rss | UK bushcraft
+survival | r/UKPreppers | https://www.reddit.com/r/UKPreppers/ | https://www.reddit.com/r/UKPreppers/.rss | UK prepping: pantries, power cuts, planning
+survival | r/foraginguk | https://www.reddit.com/r/foraginguk/ | https://www.reddit.com/r/foraginguk/.rss | UK foraging and identification

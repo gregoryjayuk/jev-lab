@@ -1,0 +1,135 @@
+# Research batch B (11 Oct 2026): Tibet, Nepal and travel, China, Chinese cooking, UK finance and FIRE, classical education, the Cardinals, UFC and jiu-jitsu.
+# Each found with evidence of recent activity; every line is still checked by check_sources.py before it counts.
+
+tibet | Phayul | https://www.phayul.com/ | https://www.phayul.com/feed/ | daily English news and opinion on Tibet and the diaspora, from Dharamsala
+tibet | Tibetan Review | https://www.tibetanreview.net/ | https://www.tibetanreview.net/feed/ | long-running exile-run news on Tibet, China's Tibet policy and the diaspora
+tibet | Tibet.net (Central Tibetan Administration) | https://tibet.net/ | https://tibet.net/feed/ | official news of the government-in-exile: Sikyong, parliament, settlements
+tibet | International Campaign for Tibet | https://savetibet.org/ | https://savetibet.org/feed/ | rights reports and policy analysis
+tibet | Tibet Watch | https://tibetwatch.org/ | https://tibetwatch.org/feed/ | London research charity documenting conditions inside Tibet
+tibet | High Peaks Pure Earth | https://highpeakspureearth.com/ | https://highpeakspureearth.com/feed/ | translated blogs, poetry and music from inside Tibet, often with originals
+tibet | Tibet Times | https://tibettimes.net/ | https://tibettimes.net/feed/ | Tibetan-language exile newspaper: native-script reading practice
+tibet | RFA Tibetan | https://www.rfa.org/tibetan/ | https://www.rfa.org/arc/outboundfeeds/tibetan/rss/ | Radio Free Asia's Tibetan-language news
+tibet | Library of Tibetan Works and Archives | https://tibetanlibrary.org/ | https://tibetanlibrary.org/feed/ | Dharamsala library and institute: language and philosophy classes, events
+tibet | SlowReading Tibetan | https://www.youtube.com/@SlowReadingTibetan1989 | https://www.youtube.com/feeds/videos.xml?channel_id=UCPbX5iWkZEGhsmcbbw4ltsQ | modern Tibetan texts read aloud slowly, for learners (YouTube)
+tibet | Rangjung Yeshe Institute | https://ryi.org/ | https://ryi.org/feed | Boudha institute: Tibetan language and Buddhist studies, course schedules
+tibet | Lotsawa House | https://www.lotsawahouse.org/ | https://www.lotsawahouse.org/rss.xml | Tibetan Buddhist texts in translation, many with the Tibetan
+tibet | Lion's Roar | https://www.lionsroar.com/ | https://www.lionsroar.com/feed/ | Buddhist magazine, much from the Tibetan traditions
+tibet | Buddhist Digital Resource Center | https://www.bdrc.io/ | https://www.bdrc.io/feed/ | digitising Tibetan texts: scans, e-texts, OCR
+tibet | OpenPecha / WeBuddhist | https://openpecha.org/ | | open-source Tibetan text and NLP tools (code on GitHub as Webuddhist-tech)
+tibet | Monlam AI | https://monlam.ai/ | | Tibetan AI: translation, speech-to-text, OCR
+tibet | Dharmamitra | https://dharmamitra.org/ | https://dharmamitra.github.io/dharmamitra-blog/feed.xml | AI translation and search for Buddhist texts including Tibetan
+tibet | r/tibetanlanguage | https://www.reddit.com/r/tibetanlanguage/ | https://www.reddit.com/r/tibetanlanguage/.rss | learners' community for Tibetan
+
+nepal-travel | The Kathmandu Post | https://kathmandupost.com/ | https://kathmandupost.com/rss | Nepal's leading English daily: politics, tourism, trekking policy
+nepal-travel | Nepali Times | https://nepalitimes.com/ | https://nepalitimes.com/feed | English weekly: analysis, travel and heritage
+nepal-travel | OnlineKhabar English | https://english.onlinekhabar.com/ | https://english.onlinekhabar.com/feed | breaking Nepal news incl. floods and landslides
+nepal-travel | Republica | https://myrepublica.nagariknetwork.com/ | https://myrepublica.nagariknetwork.com/feeds | English daily: national news, economy, tourism
+nepal-travel | The Himalayan Times | https://thehimalayantimes.com/ | | Everest and permit-rule reporting
+nepal-travel | Everest Chronicle | https://www.everestchronicle.com/ | | trekking and mountaineering news, route conditions
+nepal-travel | Himal Southasian | https://www.himalmag.com/ | https://www.himalmag.com/rss/ | long-form South Asian politics and culture
+nepal-travel | ExplorersWeb | https://explorersweb.com/ | https://explorersweb.com/feed/ | expedition news, Himalayan seasons
+nepal-travel | Alan Arnette | https://www.alanarnette.com/ | https://www.alanarnette.com/feed/ | Everest and 8000 m seasons, permit and safety policy
+nepal-travel | Against the Compass | https://againstthecompass.com/en/ | https://againstthecompass.com/en/feed/ | offbeat budget travel with current entry rules
+nepal-travel | Lost With Purpose | https://www.lostwithpurpose.com/ | https://www.lostwithpurpose.com/feed/ | budget travel, Pakistan's mountains and South Asia
+nepal-travel | Indie Traveller | https://www.indietraveller.co/ | https://www.indietraveller.co/feed/ | budget and slow independent travel
+nepal-travel | Nomadic Backpacker | https://www.nomadicbackpacker.com/ | https://www.nomadicbackpacker.com/feed | veteran backpacker's guides incl. solo Nepal trekking
+nepal-travel | Flora Gonning | https://www.youtube.com/@floragonning | https://www.youtube.com/feeds/videos.xml?channel_id=UCxx6AbqNe5u7BE3sYa06cdA | solo travel in the Himalaya and Central Asia (YouTube)
+nepal-travel | r/Nepal | https://www.reddit.com/r/Nepal/ | https://www.reddit.com/r/Nepal/.rss | residents answering travel and trekking questions
+nepal-travel | r/solotravel | https://www.reddit.com/r/solotravel/ | https://www.reddit.com/r/solotravel/.rss | itineraries, budgets, trip reports
+
+china | China Media Project | https://chinamediaproject.org/ | https://chinamediaproject.org/feed/ | Party discourse and Chinese media, analysed
+china | China Digital Times | https://chinadigitaltimes.net/ | | censorship tracking and translated deleted posts (blocks automated readers)
+china | Sinocism | https://sinocism.com/ | https://sinocism.com/feed | Bill Bishop's near-daily China newsletter (mostly paywalled)
+china | ChinaTalk | https://www.chinatalk.media/ | https://www.chinatalk.media/feed | China, tech and AI policy (part paywall)
+china | Pekingnology | https://www.pekingnology.com/ | https://www.pekingnology.com/feed | translated Chinese think-tank and elite debate
+china | Tracking People's Daily | https://trackingpeoplesdaily.substack.com/ | https://trackingpeoplesdaily.substack.com/feed | close reading of official messaging
+china | Sinica Podcast | https://www.sinicapodcast.com/ | https://www.sinicapodcast.com/feed | Kaiser Kuo's long-form interviews on China
+china | What's on Weibo | https://www.whatsonweibo.com/ | https://www.whatsonweibo.com/feed/ | Chinese social-media trends and controversies (part paywall)
+china | MERICS | https://merics.org/en | https://merics.org/en/rss | Berlin think tank on China and EU-China relations
+china | Sixth Tone | https://www.sixthtone.com/ | https://api.sixthtone.com/cont/output/rssApi | Chinese society and culture, Shanghai state-owned publisher
+china | 少数派 sspai | https://sspai.com/ | https://sspai.com/feed | Chinese-language productivity, apps and digital life
+china | 阮一峰 科技爱好者周刊 | https://www.ruanyifeng.com/blog/ | https://www.ruanyifeng.com/blog/atom.xml | Ruan Yifeng's weekly Chinese tech digest
+china | V2EX | https://www.v2ex.com/ | https://www.v2ex.com/index.xml | Chinese developer and creator community
+china | Solidot 奇客 | https://www.solidot.org/ | https://www.solidot.org/index.rss | Chinese-language tech and science briefs
+china | 小众软件 Appinn | https://www.appinn.com/ | https://www.appinn.com/feed/ | Chinese-language discovery of free and open-source software
+china | 端传媒 Initium Media | https://theinitium.com/ | https://theinitium.com/rss/ | Chinese-language long-form journalism (paywalled)
+
+chinese-cooking | The Woks of Life | https://thewoksoflife.com/ | https://thewoksoflife.com/feed/ | a family's archive of home-style and regional Chinese recipes
+chinese-cooking | Red House Spice | https://redhousespice.com/ | https://redhousespice.com/feed/ | authentic regional home cooking: Sichuan, Hunan, northern
+chinese-cooking | China Sichuan Food | https://www.chinasichuanfood.com/ | https://www.chinasichuanfood.com/feed/ | Sichuan and regional home cooking
+chinese-cooking | Omnivore's Cookbook | https://omnivorescookbook.com/ | https://omnivorescookbook.com/feed/ | Beijing-rooted home cooking
+chinese-cooking | Chinese Cooking Demystified | https://www.youtube.com/@ChineseCookingDemystified | https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw | regional technique, ingredients and food history (YouTube)
+chinese-cooking | Made With Lau | https://www.youtube.com/@MadeWithLau | https://www.youtube.com/feeds/videos.xml?channel_id=UCsIF9vk-I_PV1P-ShDFA84A | Cantonese family cooking from a retired restaurant chef (YouTube)
+chinese-cooking | Souped Up Recipes | https://www.youtube.com/@SoupedUpRecipes | https://www.youtube.com/feeds/videos.xml?channel_id=UC3HjB3X8jeENm46HCkI0Inw | weekly Chinese home cooking (YouTube)
+chinese-cooking | 滇西小哥 Dianxi Xiaoge | https://www.youtube.com/@dianxixiaoge | https://www.youtube.com/feeds/videos.xml?channel_id=UCQG_fzADCunBTV1KwjkfAQQ | rural Yunnan cooking and preserving, in Mandarin (YouTube)
+chinese-cooking | 美食作家王刚 Chef Wang | https://www.youtube.com/@chefwang | https://www.youtube.com/feeds/videos.xml?channel_id=UCg0m_Ah8P_MQbnn77-vYnYw | a Sichuan chef's precise dishes, in Mandarin (YouTube)
+chinese-cooking | 老饭骨 Lao Fan Gu | https://www.youtube.com/@LaoFanGu | https://www.youtube.com/feeds/videos.xml?channel_id=UCBJmYv3Vf_tKcQr5_qmayXg | Beijing state-banquet chefs, home versions, in Mandarin (YouTube)
+chinese-cooking | 小高姐 Magic Ingredients | https://www.youtube.com/@MagicIngredients | https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw | northern noodles, doughs and buns, in Mandarin (YouTube)
+chinese-cooking | 曼食慢语 Amanda Tastes | https://www.youtube.com/@Amandatastes | https://www.youtube.com/feeds/videos.xml?channel_id=UCmXkJ9ReY5hjvYPcnmBwing | classical and regional dishes, in Mandarin (YouTube)
+chinese-cooking | I Heart Umami | https://iheartumami.com/ | https://iheartumami.com/feed/ | Chinese and Taiwanese dishes made paleo and keto-friendly
+chinese-cooking | Low Carb Spark | https://www.lowcarbspark.com/ | https://www.lowcarbspark.com/feed/ | keto recipes incl. takeaway-style Chinese (weaker on authenticity)
+chinese-cooking | r/chinesecooking | https://www.reddit.com/r/chinesecooking/ | https://www.reddit.com/r/chinesecooking/.rss | Chinese home-cooking community
+
+finance-fire | Monevator | https://monevator.com/ | https://monevator.com/feed/ | UK passive investing, FIRE, pensions, ISAs and tax
+finance-fire | MSE Forum: pensions and retirement | https://forums.moneysavingexpert.com/categories/pensions-annuities-retirement-planning | https://forums.moneysavingexpert.com/categories/pensions-annuities-retirement-planning/feed.rss | UK peer Q&A on SIPPs, pensions, drawdown
+finance-fire | The Lemon Fool | https://www.lemonfool.co.uk/ | https://www.lemonfool.co.uk/feed.php | UK investing forum, intermediate to advanced
+finance-fire | Meaningful Money | https://meaningfulmoney.tv/ | https://meaningfulmoney.tv/feed/ | Pete Matthew's UK financial-planning podcast
+finance-fire | PensionCraft | https://www.youtube.com/@Pensioncraft | https://www.youtube.com/feeds/videos.xml?channel_id=UC9OIwUcx-Uss7xj7s1P5XGw | UK investing and pension explainers (YouTube)
+finance-fire | BBC Radio 4 Money Box | https://www.bbc.co.uk/programmes/b006qjnv | https://podcasts.files.bbci.co.uk/b006qjnv.rss | pensions, tax, savings, scams
+finance-fire | Henry Tapper | https://henrytapper.com/ | https://henrytapper.com/feed/ | daily UK pensions policy commentary
+finance-fire | Retirement Investing Today | https://www.retirementinvestingtoday.com/ | https://feeds.feedburner.com/RetirementInvestingToday | UK early retiree's real numbers
+finance-fire | FIRE v London | https://firevlondon.com/ | https://firevlondon.com/feed/ | UK FIRE journey, monthly
+finance-fire | The Escape Artist | https://theescapeartist.me/ | https://theescapeartist.me/feed/ | UK FIRE, frugality and trackers (infrequent)
+finance-fire | Early Retirement Now | https://earlyretirementnow.com/ | https://earlyretirementnow.com/feed/ | safe-withdrawal-rate research (US)
+finance-fire | Rational Reminder | https://rationalreminder.ca/podcast | https://rationalreminder.ca/podcast?format=rss | evidence-based investing podcast with academics
+finance-fire | Bogleheads Forum | https://www.bogleheads.org/forum/ | https://www.bogleheads.org/forum/feed | passive investing forum, US-centric
+finance-fire | HumbleDollar | https://humbledollar.com/ | https://humbledollar.com/feed/ | essays on retirement and money decisions (US)
+finance-fire | r/UKPersonalFinance | https://www.reddit.com/r/UKPersonalFinance/ | https://www.reddit.com/r/UKPersonalFinance/.rss | UK personal finance with a good wiki
+finance-fire | r/FIREUK | https://www.reddit.com/r/FIREUK/ | https://www.reddit.com/r/FIREUK/.rss | UK financial independence
+
+
+classical-education | The Classical Association | https://classicalassociation.org/ | https://classicalassociation.org/feed/ | UK classics body: news, teaching, events
+classical-education | Association for Latin Teaching | https://www.arlt.co.uk/ | https://www.arlt.co.uk/feed/ | UK Latin teachers and learners: resources, summer school
+classical-education | Natalie Haynes Stands Up for the Classics | https://www.bbc.co.uk/programmes/b077x8pc | https://podcasts.files.bbci.co.uk/b077x8pc.rss | witty, well-researched Radio 4 talks on the ancient world
+classical-education | ἑλλήνισον! An Ancient Greek Podcast | https://www.patreon.com/Hellenizdein | https://anchor.fm/s/49c83608/podcast/rss | conversation in Ancient Greek, intermediate and up
+classical-education | Education Otherwise | https://www.educationotherwise.org/ | https://www.educationotherwise.org/feed/ | UK home-education charity: law and practice
+classical-education | Memoria Press | https://www.memoriapress.com/ | https://www.memoriapress.com/feed/ | classical curriculum publisher: Latin, Greek, literature
+classical-education | Society for Classical Learning | https://societyforclassicallearning.org/ | https://societyforclassicallearning.org/feed/ | essays for classical schools and home educators
+classical-education | Scholé Sisters | https://scholesisters.com/ | https://rss.libsyn.com/shows/76694/destinations/343093.xml | podcast on classical home education
+classical-education | Read-Aloud Revival | https://readaloudrevival.com/ | https://readaloudrevival.com/feed/ | literature-rich family learning
+classical-education | Luke Ranieri (ScorpioMartianus) | https://www.youtube.com/@ScorpioMartianus | https://www.youtube.com/feeds/videos.xml?channel_id=UCRllohBcHec7YUgW6HfltLA | spoken Latin and Ancient Greek (YouTube)
+classical-education | Latin Tutorial | https://www.youtube.com/@latintutorial | https://www.youtube.com/feeds/videos.xml?channel_id=UCrMiGmO4X9WeWq1fMm_7avg | Latin grammar and guided readings (YouTube)
+classical-education | Textkit forum | https://www.textkit.com/greek-latin-forum/ | https://www.textkit.com/posts.rss | Greek and Latin learners' forum, free textbooks
+classical-education | r/latin | https://www.reddit.com/r/latin/ | https://www.reddit.com/r/latin/.rss | very active Latin-learning community
+classical-education | r/AncientGreek | https://www.reddit.com/r/AncientGreek/ | https://www.reddit.com/r/AncientGreek/.rss | Ancient Greek learning community
+
+baseball-cardinals | MLB.com Cardinals news | https://www.mlb.com/cardinals/news | https://www.mlb.com/cardinals/feeds/news/rss.xml | official team news: roster, injuries, prospects
+baseball-cardinals | Viva El Birdos | https://www.vivaelbirdos.com/ | https://www.vivaelbirdos.com/rss/index.xml | long-running stat-minded Cardinals blog
+baseball-cardinals | Seeing Red | https://sites.libsyn.com/543592 | https://rss.libsyn.com/shows/543592/destinations/4685987.xml | Bernie Miklasz and Will Leitch's Cardinals podcast
+baseball-cardinals | Meet Me at Musial | https://bdib.podbean.com/ | https://feeds.megaphone.fm/RRTET7709911485 | weekly Cardinals fan podcast
+baseball-cardinals | MLB Trade Rumors: Cardinals | https://www.mlbtraderumors.com/st-louis-cardinals | https://www.mlbtraderumors.com/st-louis-cardinals/feed | transactions and front-office moves
+baseball-cardinals | FanGraphs | https://blogs.fangraphs.com/ | https://blogs.fangraphs.com/feed/ | the leading sabermetric analysis site
+baseball-cardinals | Effectively Wild | https://blogs.fangraphs.com/category/podcasts/effectively-wild/ | https://blogs.fangraphs.com/category/podcasts/effectively-wild/feed/ | FanGraphs' baseball podcast
+baseball-cardinals | Baseball Prospectus | https://www.baseballprospectus.com/ | https://www.baseballprospectus.com/feed/ | sabermetric analysis and prospects (part paywall)
+baseball-cardinals | Joe Posnanski | https://www.joeposnanski.com/ | https://www.joeposnanski.com/feed | essays on baseball history and the game (part paywall)
+baseball-cardinals | Tangotiger | https://tangotiger.com/ | https://tangotiger.com/index.php/site/atom | Tom Tango on metrics and Statcast
+baseball-cardinals | Driveline Baseball | https://www.drivelinebaseball.com/blog/ | https://drivelinebaseball.com/blogs/blog.atom | pitching and hitting biomechanics
+baseball-cardinals | Jomboy Media | https://www.youtube.com/@JomboyMedia | https://www.youtube.com/feeds/videos.xml?channel_id=UCl9E4Zxa8CVr2LBLD0_TaNg | play and dugout breakdowns (YouTube)
+baseball-cardinals | r/Cardinals | https://www.reddit.com/r/Cardinals/ | https://www.reddit.com/r/Cardinals/.rss | the main Cardinals fan community
+baseball-cardinals | r/Sabermetrics | https://www.reddit.com/r/Sabermetrics/ | https://www.reddit.com/r/Sabermetrics/.rss | stats methods and research
+
+ufc-bjj | MMA Fighting | https://www.mmafighting.com/ | https://www.mmafighting.com/rss/index.xml | UFC and MMA news, results, interviews
+ufc-bjj | Sherdog | https://www.sherdog.com/ | https://www.sherdog.com/rss/news.xml | MMA news and the fighter-record database
+ufc-bjj | BBC Sport MMA | https://www.bbc.co.uk/sport/mixed-martial-arts | https://feeds.bbci.co.uk/sport/mixed-martial-arts/rss.xml | UK coverage with a British-fighter angle
+ufc-bjj | Heavy Hands | https://heavyhands.libsyn.com/ | https://rss.libsyn.com/shows/47421/destinations/159678.xml | combat-sports history and technical analysis podcast
+ufc-bjj | Jack Slack Podcast | https://fightsgoneby.libsyn.com/ | https://rss.libsyn.com/shows/85449/destinations/411148.xml | technical fight breakdowns
+ufc-bjj | Lawrence Kenshin | https://www.youtube.com/@LawrenceKenshin | https://www.youtube.com/feeds/videos.xml?channel_id=UC9tDOUA6AnQ7LNe3b70QwKA | slow-motion striking breakdowns (YouTube)
+ufc-bjj | BJJ Heroes | https://www.bjjheroes.com/ | https://www.bjjheroes.com/feed | competition results and athlete records
+ufc-bjj | BJJEE | https://www.bjjee.com/ | https://www.bjjee.com/feed/ | grappling news and technique articles
+ufc-bjj | Stephan Kesting | https://www.youtube.com/@StephanKesting | https://www.youtube.com/feeds/videos.xml?channel_id=UCXpu025o8edxR9b4NMbH11A | grappling technique and training principles (YouTube)
+ufc-bjj | Chewjitsu | https://www.youtube.com/@Chewjitsu | https://www.youtube.com/feeds/videos.xml?channel_id=UCGCZBBvu7ZnqHYHuScODbAQ | BJJ coaching and gym culture (YouTube)
+ufc-bjj | Knight Jiu-Jitsu | https://www.youtube.com/@KnightJiuJitsu | https://www.youtube.com/feeds/videos.xml?channel_id=UCDaSNu2fM3JL4VdlSwcFtOw | concise BJJ technique (YouTube)
+ufc-bjj | JonThomasBJJ | https://www.youtube.com/@JonThomasBJJ | https://www.youtube.com/feeds/videos.xml?channel_id=UCBNsOFfO-TZDIpygfz5paaQ | practical BJJ set-ups (YouTube)
+ufc-bjj | The B-Team | https://www.youtube.com/@BTeamJiuJitsu | https://www.youtube.com/feeds/videos.xml?channel_id=UClAJVVKDBNJxW2lTSwLwCOw | no-gi technique and rolls (YouTube)
+ufc-bjj | r/MMA | https://www.reddit.com/r/MMA/ | https://www.reddit.com/r/MMA/.rss | the largest MMA community
+ufc-bjj | r/bjj | https://www.reddit.com/r/bjj/ | https://www.reddit.com/r/bjj/.rss | the main jiu-jitsu community
